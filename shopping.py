@@ -3,6 +3,8 @@ shopping = {
     "piekarnia": ["cheb", "bulki", "bagietka"],
     "miesny": ["lopatka", "piers z kurczaka", "stek"],
     "cukiernia": ["ptysie", "krówki", "crosaint", "pączek"],
+    "papierniczy": ["papier do pakowania prezentów", "ryza papieru A4", " zeszyt w linie"]
+
 }
 
 sum_of_product = 0
