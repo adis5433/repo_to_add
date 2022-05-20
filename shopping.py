@@ -15,3 +15,6 @@ for shop in shopping:
     sum_of_product += len(shopping[shop])
 
 print("Do kupienia mam", sum_of_product, "produktów")
+
+
+print("Pozdrowienia dla mentora Jacka")
